@@ -4,7 +4,7 @@ import zipfile
 import datetime
 
 # creating 'dados' folder
-folder = 'dados'
+folder = 'dados_cvm'
 os.makedirs(folder)
 os.chdir(os.getcwd() + f'\\{folder}')
 
