@@ -27,7 +27,7 @@ Para realizar o download das DFPs, siga os passos abaixo:
 
 4. Clique no botão **_Generate Excel_** e salve o Excel gerado
 
-   * Para ver um exemplo de planilha gerada, baixe o arquivo [ALPARGATAS S.A. - 2021 (exemplo).xslx](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/exemplo.xlsx) ou [clique aqui](https://docs.google.com/spreadsheets/d/1xZ_fXTsaw5FEhF6XI1VJJExQuG1A7i8K6ko_rh2QZ40/edit?usp=drive_link) (Alpargatas, código: 10456 | Ano do DFP: 2021)
+   * Para ver um exemplo de planilha gerada, baixe o arquivo [ALPARGATAS S.A. - 2021 (exemplo).xslx](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/exemplo.xlsx) ou [clique aqui](https://docs.google.com/spreadsheets/d/1xZ_fXTsaw5FEhF6XI1VJJExQuG1A7i8K6ko_rh2QZ40/edit?usp=sharing) (Alpargatas, código: 10456 | Ano do DFP: 2021)
 
 
 
