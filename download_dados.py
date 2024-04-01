@@ -3,7 +3,7 @@ import requests
 import zipfile
 import datetime
 
-# creating 'dados' folder
+# creating 'dados_cvm' folder
 folder = 'dados_cvm'
 os.makedirs(folder)
 os.chdir(os.getcwd() + f'\\{folder}')
