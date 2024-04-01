@@ -21,7 +21,7 @@ def generate_excel_for_company(cia_code, year):
     columns = ['DENOM_CIA', 'CD_CVM', 'ORDEM_EXERC','DT_FIM_EXERC', 'CD_CONTA', 'DS_CONTA', 'VL_CONTA']
     columns_cia_codes = ['DENOM_CIA', 'CD_CVM']
     
-    path = os.getcwd() + '\\dados'
+    path = os.getcwd() + '\\dados_cvm'
     
     # READING THE ZIP FILES AND CREATING THE DATAFRAME
     for filename in os.listdir(path):
