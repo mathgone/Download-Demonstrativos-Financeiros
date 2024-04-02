@@ -4,7 +4,7 @@
 Para realizar o download das DFPs, siga os passos abaixo:
 
 ---
-###### Bibliotecas do Python necessárias: tkinter, pandas, requests
+###### Bibliotecas do Python necessárias: pandas, requests
 1. Coloque os arquivos [download_dados.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/download_dados.py) e [filtro_demonstrativos_financeiros.pyw](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/filtro_demonstrativos_financeiros.pyw) em uma única pasta
 
 2. Execute o programa [download_dados.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/download_dados.py)
