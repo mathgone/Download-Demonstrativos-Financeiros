@@ -21,4 +21,4 @@ for ano in anos:
     open(f'dfp_cia_aberta_{ano}.zip', 'wb').write(download.content)
     print(f'Finished downloading dfp_cia_aberta_{ano}.zip')
 
-input('Finished! Press Enter to exit...')
+input('\nFinished! Press Enter to exit...')
