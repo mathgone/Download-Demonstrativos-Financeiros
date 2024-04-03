@@ -7,9 +7,11 @@ Para realizar o download das DFPs, siga os passos abaixo:
 ###### Bibliotecas do Python usadas: pandas, requests
 1. Acesse [esta pasta no Google Drive](https://drive.google.com/drive/folders/1_XXCsOvaYVDjrRyFr1-M9eABil2dT7z_?usp=sharing) e faça download dos arquivos **download_dados.exe** e **filtro_demonstrativos_financeiros.exe**
 
-2. Coloque os arquivos [download_dados](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/download_dados.py) e [filtro_demonstrativos_financeiros](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/filtro_demonstrativos_financeiros.pyw) em uma única pasta
+   * Talvez seja necessário permissão do seu navegador para efetuar o donwload
 
-3. Execute o programa [download_dados](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/download_dados.py)
+3. Coloque os arquivos [download_dados](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/download_dados.py) e [filtro_demonstrativos_financeiros](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/filtro_demonstrativos_financeiros.pyw) em uma única pasta
+
+4. Execute o programa [download_dados](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/download_dados.py)
     
      * Este script irá fazer o download dos [DFPs (2010 - 2023)](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/) de Companias Abertas.
      * Os dados serão salvos em uma pasta denominada **'dados_cvm'**
