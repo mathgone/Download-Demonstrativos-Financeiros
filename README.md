@@ -1,40 +1,36 @@
 # Download Demonstrativos Financeiros
-### Faça download dos demonstrativos financeiros de uma empresa listada na B3 
+## Faça download dos demonstrativos financeiros de uma empresa listada na B3 
 
 Para realizar o download das DFPs, siga os passos abaixo:
 
----
-###### Bibliotecas do Python usadas: pandas, requests
-1. Acesse [esta pasta no Google Drive](https://drive.google.com/drive/folders/1_XXCsOvaYVDjrRyFr1-M9eABil2dT7z_?usp=sharing) e faça download dos arquivos **download_dados.exe** e **filtro_demonstrativos_financeiros.exe**
+# 1. Instale o Python em seu computador
 
-   * Talvez seja necessário permissão do seu navegador para efetuar o donwload
+- Acesse [python.org](https://www.python.org/downloads/) e baixe Python para seu sistema operacional
+- Certifique-se de marcar a opção **add python.exe to PATH**
+  
+![](https://i.postimg.cc/s2zcPcV8/python-installer.png)
 
-2. Coloque os arquivos [download_dados](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/download_dados.py) e [filtro_demonstrativos_financeiros](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/filtro_demonstrativos_financeiros.pyw) em uma única pasta
+# 2. Baixe a pasta [scripts.zip](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/scripts.zip)
 
-3. Execute o programa [download_dados](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/download_dados.py), de preferência, **como administrador**
-    
-     * Talvez seja necessário permissão adicional para executar o programa
-     * Este script irá fazer o download dos [DFPs (2010 - 2023)](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/) de Companias Abertas.
-     * Os dados serão salvos em uma pasta denominada **'dados_cvm'**
+# 3. Extraia os arquivos
 
-[<img src="https://i.postimg.cc/MTD9pQp5/cvm-website.png">](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/)
+![](https://i.postimg.cc/Jz4sJ6vt/image.png)
 
+# 4. Execute o script [setup.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/scripts/setup.py)
 
-5. Em seguida, execute o arquivo [filtro_demonstrativos_financeiros](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/filtro_demonstrativos_financeiros.pyw)
+- Este script irá instalar as biblioetcas do Python necessárias para o programa
 
-    * Na tela de prompt, digite o código da compania e especifique o ano do DFP
-    
-    ![alt text](https://i.postimg.cc/tJ9gG7rF/prompt.png "Janela de Prompt")
+# 5. Execute o script [interface.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/scripts/interface.py)
 
-    * Os códigos das companias podem ser encontrados [aqui](https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/FormBuscaCiaAbOrdAlf.aspx?LetraInicial=A)
+![](https://i.postimg.cc/HxcmC5Kp/interface.png)
 
-[<img src="https://i.postimg.cc/fL45whQw/cia-code-table.png">](https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/FormBuscaCiaAbOrdAlf.aspx?LetraInicial=A)
+- Para verificar se os módulos foram instalados corretamente, clique no botão  ![](https://i.postimg.cc/K8HnJk6P/interface-verificar-biblioteca.png)
 
-6. Clique no botão **_Generate Excel_** e salve o Excel gerado
+## 5.1 Clique no botão  ![](https://i.postimg.cc/qvL7vs70/interface-baixar-dados.png)
 
-   * Para ver um exemplo de planilha gerada, baixe o arquivo [ALPARGATAS S.A. - 2021 (exemplo).xslx](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/ALPARGATAS%20S.A.%20-%202021%20(exemplo).xlsx) ou [clique aqui](https://docs.google.com/spreadsheets/d/1xZ_fXTsaw5FEhF6XI1VJJExQuG1A7i8K6ko_rh2QZ40/edit?usp=sharing) (Alpargatas, código: 10456 | Ano do DFP: 2021)
-
-
+- Este botão irá executar o script [donwload_dados.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/scripts/download_dados.py)
+- Será realizado o download dos [DFPs 2010 - 2013](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/) de Companias Abertas
+- Os dados serão salvos na pasta **dados_cvm**
 
 
 
