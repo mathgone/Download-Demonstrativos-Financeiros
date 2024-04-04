@@ -32,6 +32,10 @@ Para realizar o download das DFPs, siga os passos abaixo:
 - Será realizado o download dos [DFPs 2010 - 2013](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/) de Companias Abertas
 - Os dados serão salvos na pasta **dados_cvm**
 
+# 6. Digite o código CVM da empresa e o ano da DFP
 
+- Os códigos das empresas podem ser encontrados [aqui](https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/FormBuscaCiaAbOrdAlf.aspx?LetraInicial=A)
 
+![](https://i.postimg.cc/SxvvCKV5/image.png)
 
+# 7. Clique no botão  ![](https://i.postimg.cc/nV3M4bb7/image.png)
