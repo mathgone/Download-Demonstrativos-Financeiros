@@ -1,5 +1,5 @@
-# Download Demonstrativos Financeiros
-## Faça download dos demonstrativos financeiros de uma empresa listada na B3 
+# Download Demonstrativos Financeiros Padronizados
+## Faça download do Demonstrativo Financeiro Padronizado (DFP) de uma empresa listada na B3 
 
 Para realizar o download das DFPs, siga os passos abaixo:
 
