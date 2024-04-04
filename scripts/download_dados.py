@@ -22,7 +22,7 @@ else:
     for ano in anos:
         download = requests.get(url + f'dfp_cia_aberta_{ano}.zip')
         open(f'dfp_cia_aberta_{ano}.zip', 'wb').write(download.content)
-        print(f'Finished downloading dfp_cia_aberta_{ano}.zip')
+        print(f'Download de dfp_cia_aberta_{ano}.zip finalizado')
     
     print('\nDownload finalizado')
 
