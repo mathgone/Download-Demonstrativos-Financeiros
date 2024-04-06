@@ -65,7 +65,7 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 
 <a name="codigo_cvm"></a>
 ### 2. Site de códigos CVM
-> [!NOTE]
+> [!IMPORTANT]
 > Acesse o site abaixo para encontrar os códigos CVM das empresas
 - Os códigos CVM das empresas podem ser encontrados no site: [https://cvmweb.cvm.gov.br/](https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/FormBuscaCiaAbOrdAlf.aspx?LetraInicial=A)
 ------------------------
