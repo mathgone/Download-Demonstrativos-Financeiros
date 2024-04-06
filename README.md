@@ -60,7 +60,7 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 ![Instalador do Python](https://i.postimg.cc/s2zcPcV8/python-installer.png)
 -------------------
 
-> [!INFO]
+> [!NOTE]
 > Acesse o site abaixo para encontrar os códigos CVM das empresas
 <a name="codigo_cvm"></a>
 ## Códigos CVM
