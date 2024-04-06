@@ -73,7 +73,7 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 ## Como baixar e utilizar o programa
 
 <a name="baixar_pasta_script"></a>
-### 1. Baixe a pasta [filtro_cvm.zip](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/scripts.zip)
+### 1. Baixe a pasta [filtro_cvm.zip](https://github.com/mathgone/Download-Demonstrativos-Financeiros-Padronizados/blob/main/filtro_cvm.zip)
 ------------------------
 
 <a name="extrair_pasta_script"></a>
