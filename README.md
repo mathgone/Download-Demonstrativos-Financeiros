@@ -19,7 +19,7 @@
 
 ## Faça download do Demonstrativos Financeiros de uma empresa listada na B3 
 
-Este é um projeto em Python desenvolvido para baixar os demonstrativos financeiros de empresas disponíveis no site da Comissão de Valores Mobiliários (CVM) do Brasil. Ele oferece uma maneira rápida e automatizada de obter informações financeiras importantes das empresas listadas na bolsa de valores brasileira.
+Este é um projeto em Python desenvolvido para baixar os demonstrativos financeiros de empresas disponíveis no site da Comissão de Valores Mobiliários (CVM) do Brasil. Ele oferece uma maneira rápida e automatizada de obter informações financeiras importantes das companias listadas na bolsa de valores brasileira.
 
 ###### Interface do programa
 ![Interface do programa](https://i.postimg.cc/4xk3sNB8/user-interface.png)
