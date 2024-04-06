@@ -4,7 +4,7 @@
 - ## [Guia de instalação e de uso](#guia)
   - ## [Pré-requesitos](#pre_requisitos)
     - ### [Python](#instale-o-python-em-seu-computador)
-    - ### [Códigos CVM](#códigos-cvm)
+    - ### [Códigos CVM](#codigo_cvm)
   - ## [Passo a passo para baixar e utilizar o programa](#como-baixar-e-utilizar-o-programa)
     - ### [1. Baixe a pasta scripts.zip](#baixar_pasta_script)
     - ### [2. Extraia os arquivos](#extrair_pasta_script)
@@ -58,9 +58,11 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
   
 ###### Instalador do Python
 ![Instalador do Python](https://i.postimg.cc/s2zcPcV8/python-installer.png)
+-------------------
 
-> [!WARNING]
+> [!INFO]
 > Acesse o site abaixo para encontrar os códigos CVM das empresas
+<a name="codigo_cvm"></a>
 ## Códigos CVM
 - Os códigos CVM das empresas podem ser encontrados no site: [https://cvmweb.cvm.gov.br/](https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/FormBuscaCiaAbOrdAlf.aspx?LetraInicial=A)
 
