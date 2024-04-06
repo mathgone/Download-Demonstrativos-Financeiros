@@ -54,14 +54,16 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 
 <a name="instalar_python"></a>
 ### 1. Instale o Python em seu computador
-> [!WARNING]
-> É importante que o usuário tenha Python instalado em sua máquina.
+
+- É **necessário** que o usuário tenha Python instalado em sua máquina
 
 - Acesse [python.org](https://www.python.org/downloads/) e baixe Python para seu sistema operacional
-- Certifique-se de marcar a opção **add python.exe to PATH**
+
+> [!WARNING]
+> ***Certifique-se de marcar a opção Add python.exe to PATH!***
   
 ###### Instalador do Python
-<img align="center" width='65%' src="https://i.postimg.cc/s2zcPcV8/python-installer.png">
+<img align="center" width='65%' src="https://i.postimg.cc/Dzz11n7s/python-installer.png">
 
 <a name="codigo_cvm"></a>
 ### 2. Site de códigos CVM
