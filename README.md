@@ -63,7 +63,7 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 > ***Certifique-se de marcar a opção Add python.exe to PATH!***
   
 ###### Instalador do Python
-<img align="center" width='65%' src="https://i.postimg.cc/Dzz11n7s/python-installer.png">
+<img align="center" width='65%' src="https://i.postimg.cc/wxkf5Tp4/python-installer.png">
 
 <a name="codigo_cvm"></a>
 ### 2. Site de códigos CVM
