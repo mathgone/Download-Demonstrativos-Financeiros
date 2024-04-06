@@ -19,8 +19,7 @@
 
 ## Faça download do Demonstrativos Financeiros de uma empresa listada na B3 
 
-- Exemplo de Excel gerado
-
+###### Exemplo de Excel gerado
 ![](https://i.postimg.cc/cCXmRbCj/planilha.png)
 - Link para acessar a planilha: [https://docs.google.com](https://docs.google.com/spreadsheets/d/1U45nzbGmEVZjq0cGmKAqq7J9ZpSKAg2d/edit?usp=drive_link&ouid=103571908927816967898&rtpof=true&sd=true)
 
@@ -35,8 +34,8 @@
     - Demonstração de Fluxo de Caixa (DFC) Consolidado
     - Demonstração de Resultado (DRE) Consolidado
 
-##### Interface do programa
-![](https://i.postimg.cc/4xk3sNB8/user-interface.png)
+###### Interface do programa
+![Interface do programa](https://i.postimg.cc/4xk3sNB8/user-interface.png)
 
 # Para realizar o download das DFPs, siga os passos abaixo
 
@@ -47,6 +46,7 @@
 - Acesse [python.org](https://www.python.org/downloads/) e baixe Python para seu sistema operacional
 - Certifique-se de marcar a opção **add python.exe to PATH**
   
+###### Instalador do Python
 ![Instalador do Python](https://i.postimg.cc/s2zcPcV8/python-installer.png)
 
 # Como baixar e utilizar o programa
@@ -60,6 +60,7 @@
 > [!IMPORTANT]
 > Para garantir o funcionamento do programa, mantenha todos os arquivos extraídos em um único diretório.
 
+###### Extração de arquivos zip
 ![Tutorial como extrair arquivos](https://i.postimg.cc/gj9MyTKz/extract-folder.png)
 
 <a name="executar_interface"></a>
@@ -68,10 +69,11 @@
 > [!TIP]
 > Segurando a tecla ALT, você pode arrastar o arquivo interface.py para outro diretório para criar um atalho.
 
+###### Interface do programa
 ![Interface do usuário](https://i.postimg.cc/4xk3sNB8/user-interface.png)
 
 <a name="clicar_botao_verificar_bibliotecas"></a>
-# 4. Clique no botão ![Botão Verificar bibliotecas](https://i.postimg.cc/YSy0cNVF/verificar-bibliotecas.png)
+# 4. Clique no botão <img align="left" width="33%" src="https://i.postimg.cc/YSy0cNVF/verificar-bibliotecas.png"> 
 
 - Este botão irá executar o script [setup.py]()
 - Será feito o download de todos os módulos necessários para o funcionamento do programa
@@ -95,6 +97,7 @@
 
 - Os códigos CVM das empresas podem ser encontrados [aqui](https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/FormBuscaCiaAbOrdAlf.aspx?LetraInicial=A)
 
+###### Empresa: ALPARGATAS S.A. | Ano: 2023
 ![Interface do usuário com Inputs](https://i.postimg.cc/j2WhCnFn/user-interface-inputs.png)
 
 <a name="clicar_botao_gerar_excel"></a>
