@@ -1,8 +1,8 @@
 # Sumário
 - ## [Apresentação](#download-demonstrativos-financeiros)
   - ## [Resumo das funcionalidades](#resumo_funcionalidades)
-- ## [Guia de instalação e de uso](#guia-de-instalação-e-de-uso)
-  - ## [Pré-requesitos](#pré-requesitos)
+- ## [Guia de instalação e de uso](#guia)
+  - ## [Pré-requesitos](#pre_requisitos)
     - ### [Python](#instale-o-python-em-seu-computador)
     - ### [Códigos CVM](#códigos-cvm)
   - ## [Passo a passo para baixar e utilizar o programa](#como-baixar-e-utilizar-o-programa)
@@ -43,9 +43,11 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 ![Exemplo de Excel gerado](https://i.postimg.cc/cCXmRbCj/planilha.png)
 - Link para acessar a planilha: [https://docs.google.com](https://docs.google.com/spreadsheets/d/18aJ9YykdlPfqjOoxF577g4grvyuqFuht/edit?usp=sharing&ouid=103571908927816967898&rtpof=true&sd=true)
 
+<a name="guia"></a>
 # Guia de instalação e de uso
 
-# Pré-requesitos
+<a name="pre_requisitos"></a>
+# Pré-requisitos
 
 > [!WARNING]
 > É importante que o usuário tenha Python instalado em sua máquina.
