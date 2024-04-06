@@ -4,8 +4,8 @@
 - ### [Guia de uso](#para-realizar-o-download-das-dfps-siga-os-passos-abaixo)
   - ### [Pré-requesitos](#instale-o-python-em-seu-computador)
   - ### [Passo a passo para baixar e utlizar o programa](#como-baixar-e-utilizar-o-programa)
-    - [1. Baixe a pasta scripts.zip]()
-    - [2. Extraia os arquivos]()
+    - [1. Baixe a pasta scripts.zip](#baixar_pasta_script)
+    - [2. Extraia os arquivos](#extrair_pasta_script)
     - [3. Execute o script interface.py]()
     - [4. Clique no botão Verificar bibliotecas]()
     - [5. Clique no botão Baixar dados trimestrais]()
@@ -13,9 +13,8 @@
     - [7. Digite o código CVM da empresa e o ano da DFP]()
     - [8. Clique no botão Gerar Excel]()
    
-[click here to jump to my anchor](#custom_anchor_name)
 ------------------------
-
+[click here to jump to my anchor](#custom_anchor_name)
 <a name="custom_anchor_name"></a>
 # some header
 
@@ -54,8 +53,10 @@
 
 # Como baixar e utilizar o programa
 
+<a name="baixar_pasta_script"></a>
 # 1. Baixe a pasta [scripts.zip](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/scripts.zip)
 
+<a name="extrair_pasta_script"></a>
 # 2. Extraia os arquivos
 
 > [!IMPORTANT]
