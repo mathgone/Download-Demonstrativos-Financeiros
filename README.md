@@ -83,7 +83,7 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 > Para garantir o funcionamento do programa, mantenha todos os arquivos extraídos em um único diretório.
 
 ###### Extração de arquivos zip
-<img align="center" width='40%' src="https://i.postimg.cc/gj9MyTKz/extract-folder.png">
+<img align="center" width='50%' src="https://i.postimg.cc/zG6jjFMv/extract-image.png">
 
 ------------------------
 
@@ -94,7 +94,7 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 > Segurando a tecla ALT, você pode arrastar o arquivo interface.py para outro diretório para criar um atalho.
 
 ###### Interface do programa
-![Interface do usuário](https://i.postimg.cc/4xk3sNB8/user-interface.png)
+<img align="center" width='80%' src="https://i.postimg.cc/4xk3sNB8/user-interface.png">
 
 ------------------------
 
@@ -109,7 +109,7 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 ### 5. Clique no botão <img align="center" width='33%' src="https://i.postimg.cc/7PJGkcqZ/baixar-dados-trimestrais.png">
 
 - Este botão irá executar o script [donwload_dados_itr.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros-Padronizados/blob/main/filtro_cvm/download_dados_itr.py)
-- Será realizado o download das [ITRs (2011 - 2023)](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/) de Companias Abertas
+- Será realizado o download das [ITRs (2011 - 2023)](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/) de Companias Abertas
 - Os dados serão salvos na pasta **dados_cvm_itr**
 ------------------------
 
@@ -127,7 +127,8 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 - Os códigos CVM das empresas podem ser encontrados [aqui](https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/FormBuscaCiaAbOrdAlf.aspx?LetraInicial=A)
 
 ###### Empresa: ALPARGATAS S.A. | Ano: 2023
-![Interface do usuário com Inputs](https://i.postimg.cc/j2WhCnFn/user-interface-inputs.png)
+<img align="center" width='80%' src="https://i.postimg.cc/j2WhCnFn/user-interface-inputs.png">
+
 ------------------------
 
 <a name="clicar_botao_gerar_excel"></a>
