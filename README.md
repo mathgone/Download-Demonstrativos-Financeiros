@@ -1,22 +1,19 @@
-## Sumário
-- ### [Apresentação](#download-demonstrativos-financeiros)
-  - ### [Resumo das funcionalidades](#resumo_funcionalidades)
-- ### [Guia de uso](#para-realizar-o-download-das-dfps-siga-os-passos-abaixo)
-  - ### [Pré-requesitos](#instale-o-python-em-seu-computador)
-  - ### [Passo a passo para baixar e utlizar o programa](#como-baixar-e-utilizar-o-programa)
-    - [1. Baixe a pasta scripts.zip](#baixar_pasta_script)
-    - [2. Extraia os arquivos](#extrair_pasta_script)
-    - [3. Execute o script interface.py](#executar_interface)
-    - [4. Clique no botão Verificar bibliotecas](#clicar_botao_verificar_bibliotecas)
-    - [5. Clique no botão Baixar dados trimestrais](#clicar_botao_baixar_dados_trimestrais)
-    - [6. Clique no botão Baixar DFPs](#clicar_botao_baixar_dfps)
-    - [7. Digite o código CVM da empresa e o ano da DFP](#inputs)
-    - [8. Clique no botão Gerar Excel](#clicar_botao_gerar_excel)
+# Sumário
+- ## [Apresentação](#download-demonstrativos-financeiros)
+  - ## [Resumo das funcionalidades](#resumo_funcionalidades)
+- ## [Guia de uso](#para-realizar-o-download-das-dfps-siga-os-passos-abaixo)
+  - ## [Pré-requesitos](#instale-o-python-em-seu-computador)
+  - ## [Passo a passo para baixar e utlizar o programa](#como-baixar-e-utilizar-o-programa)
+    - ### [1. Baixe a pasta scripts.zip](#baixar_pasta_script)
+    - ### [2. Extraia os arquivos](#extrair_pasta_script)
+    - ### [3. Execute o script interface.py](#executar_interface)
+    - ### [4. Clique no botão Verificar bibliotecas](#clicar_botao_verificar_bibliotecas)
+    - ### [5. Clique no botão Baixar dados trimestrais](#clicar_botao_baixar_dados_trimestrais)
+    - ### [6. Clique no botão Baixar DFPs](#clicar_botao_baixar_dfps)
+    - ### [7. Digite o código CVM da empresa e o ano da DFP](#inputs)
+    - ### [8. Clique no botão Gerar Excel](#clicar_botao_gerar_excel)
    
 ------------------------
-[click here to jump to my anchor](#custom_anchor_name)
-<a name="custom_anchor_name"></a>
-# some header
 
 # Download Demonstrativos Financeiros
 
@@ -74,7 +71,7 @@
 ![Interface do usuário](https://i.postimg.cc/4xk3sNB8/user-interface.png)
 
 <a name="clicar_botao_verificar_bibliotecas"></a>
-# 5. Clique no botão ![Botão Verificar bibliotecas](https://i.postimg.cc/YSy0cNVF/verificar-bibliotecas.png)
+# 4. Clique no botão ![Botão Verificar bibliotecas](https://i.postimg.cc/YSy0cNVF/verificar-bibliotecas.png)
 
 - Este botão irá executar o script [setup.py]()
 - Será feito o download de todos os módulos necessários para o funcionamento do programa
@@ -94,13 +91,13 @@
 - Os dados serão salvos na pasta **dados_cvm_dfp**
 
 <a name="inputs"></a>
-# 6. Digite o código CVM da empresa e o ano da DFP
+# 7. Digite o código CVM da empresa e o ano da DFP
 
 - Os códigos CVM das empresas podem ser encontrados [aqui](https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/FormBuscaCiaAbOrdAlf.aspx?LetraInicial=A)
 
 ![Interface do usuário com Inputs](https://i.postimg.cc/j2WhCnFn/user-interface-inputs.png)
 
 <a name="clicar_botao_gerar_excel"></a>
-# 7. Clique no botão  ![Botão Gerar Excel](https://i.postimg.cc/W44zfY9j/generate-excel.png)
+# 8. Clique no botão  ![Botão Gerar Excel](https://i.postimg.cc/W44zfY9j/generate-excel.png)
 
 - Um [arquivo Excel]() será gerado com as especificações dadas
