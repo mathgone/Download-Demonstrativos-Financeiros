@@ -1,9 +1,9 @@
 # Sumário
 - ## [Apresentação](#download-demonstrativos-financeiros)
   - ## [Resumo das funcionalidades](#resumo_funcionalidades)
-- ## [Guia de uso](#para-realizar-o-download-das-dfps-siga-os-passos-abaixo)
+- ## [Guia de instalação e de uso](#para-realizar-o-download-das-dfps-siga-os-passos-abaixo)
   - ## [Pré-requesitos](#instale-o-python-em-seu-computador)
-  - ## [Passo a passo para baixar e utlizar o programa](#como-baixar-e-utilizar-o-programa)
+  - ## [Passo a passo para baixar e utilizar o programa](#como-baixar-e-utilizar-o-programa)
     - ### [1. Baixe a pasta scripts.zip](#baixar_pasta_script)
     - ### [2. Extraia os arquivos](#extrair_pasta_script)
     - ### [3. Execute o script interface.py](#executar_interface)
@@ -41,7 +41,7 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 ![Exemplo de Excel gerado](https://i.postimg.cc/cCXmRbCj/planilha.png)
 - Link para acessar a planilha: [https://docs.google.com](https://docs.google.com/spreadsheets/d/18aJ9YykdlPfqjOoxF577g4grvyuqFuht/edit?usp=sharing&ouid=103571908927816967898&rtpof=true&sd=true)
 
-# Para realizar o download das DFPs, siga os passos abaixo
+# Guia de instalação e uso
 
 > [!WARNING]
 > É importante que o usuário tenha Python instalado em sua máquina.
@@ -56,7 +56,7 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 # Como baixar e utilizar o programa
 
 <a name="baixar_pasta_script"></a>
-# 1. Baixe a pasta [scripts.zip](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/scripts.zip)
+# 1. Baixe a pasta [filtro_cvm.zip](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/scripts.zip)
 
 <a name="extrair_pasta_script"></a>
 # 2. Extraia os arquivos
