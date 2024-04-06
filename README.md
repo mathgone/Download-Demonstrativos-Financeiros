@@ -1,8 +1,10 @@
 # Sumário
 - ## [Apresentação](#download-demonstrativos-financeiros)
   - ## [Resumo das funcionalidades](#resumo_funcionalidades)
-- ## [Guia de instalação e de uso](#para-realizar-o-download-das-dfps-siga-os-passos-abaixo)
-  - ## [Pré-requesitos](#instale-o-python-em-seu-computador)
+- ## [Guia de instalação e de uso](#guia-de-instalação-e-de-uso)
+  - ## [Pré-requesitos](#pré-requesitos)
+    - ### [Python](#instale-o-python-em-seu-computador)
+    - ### [Códigos CVM](#códigos-cvm)
   - ## [Passo a passo para baixar e utilizar o programa](#como-baixar-e-utilizar-o-programa)
     - ### [1. Baixe a pasta scripts.zip](#baixar_pasta_script)
     - ### [2. Extraia os arquivos](#extrair_pasta_script)
@@ -19,7 +21,7 @@
 
 ## Faça download do Demonstrativos Financeiros de uma empresa listada na B3 
 
-Este é um projeto em Python desenvolvido para baixar os demonstrativos financeiros de empresas disponíveis no site da Comissão de Valores Mobiliários (CVM) do Brasil. Ele oferece uma maneira rápida e automatizada de obter informações financeiras importantes das companias listadas na bolsa de valores brasileira.
+Este é um projeto em Python desenvolvido para baixar os demonstrativos financeiros de empresas disponíveis no site da [Comissão de Valores Mobiliários (CVM)](https://dados.cvm.gov.br/) do Brasil. Ele oferece uma maneira rápida e automatizada de obter informações financeiras importantes das companhias listadas na bolsa de valores brasileira.
 
 ###### Interface do programa
 ![Interface do programa](https://i.postimg.cc/4xk3sNB8/user-interface.png)
@@ -41,17 +43,24 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 ![Exemplo de Excel gerado](https://i.postimg.cc/cCXmRbCj/planilha.png)
 - Link para acessar a planilha: [https://docs.google.com](https://docs.google.com/spreadsheets/d/18aJ9YykdlPfqjOoxF577g4grvyuqFuht/edit?usp=sharing&ouid=103571908927816967898&rtpof=true&sd=true)
 
-# Guia de instalação e uso
+# Guia de instalação e de uso
+
+# Pré-requesitos
 
 > [!WARNING]
 > É importante que o usuário tenha Python instalado em sua máquina.
-# Instale o Python em seu computador
+## Instale o Python em seu computador
 
 - Acesse [python.org](https://www.python.org/downloads/) e baixe Python para seu sistema operacional
 - Certifique-se de marcar a opção **add python.exe to PATH**
   
 ###### Instalador do Python
 ![Instalador do Python](https://i.postimg.cc/s2zcPcV8/python-installer.png)
+
+> [!WARNING]
+> Acesse o site abaixo para encontrar os códigos CVM das empresas
+## Códigos CVM
+- Os códigos CVM das empresas podem ser encontrados no site: [https://cvmweb.cvm.gov.br/](https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/FormBuscaCiaAbOrdAlf.aspx?LetraInicial=A)
 
 # Como baixar e utilizar o programa
 
