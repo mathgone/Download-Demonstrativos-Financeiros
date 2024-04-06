@@ -2,7 +2,7 @@ import subprocess
 from tkinter import messagebox
 import sys
 
-packages = ['pandas', 'requests']
+packages = ['pandas', 'requests', 'openpyxl']
 
 for package in packages:
     try:
