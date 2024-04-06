@@ -1,6 +1,6 @@
 ## Sumário
 - ### [Apresentação](#download-demonstrativos-financeiros)
-  - ### [Resumo das funcionalidades](#resumo-das-funcionalidades)
+  - ### [Resumo das funcionalidades](#resumo_funcionalidades)
 - ### [Guia de uso](#para-realizar-o-download-das-dfps-siga-os-passos-abaixo)
   - ### [Pré-requesitos](#instale-o-python-em-seu-computador)
   - ### [Passo a passo para baixar e utlizar o programa](#como-baixar-e-utilizar-o-programa)
@@ -11,7 +11,7 @@
     - [5. Clique no botão Baixar dados trimestrais](#clicar_botao_baixar_dados_trimestrais)
     - [6. Clique no botão Baixar DFPs](#clicar_botao_baixar_dfps)
     - [7. Digite o código CVM da empresa e o ano da DFP](#inputs)
-    - [8. Clique no botão Gerar Excel](clicar_botao_gerar_excel)
+    - [8. Clique no botão Gerar Excel](#clicar_botao_gerar_excel)
    
 ------------------------
 [click here to jump to my anchor](#custom_anchor_name)
@@ -27,6 +27,7 @@
 ![](https://i.postimg.cc/cCXmRbCj/planilha.png)
 - Link para acessar a planilha: [https://docs.google.com](https://docs.google.com/spreadsheets/d/1U45nzbGmEVZjq0cGmKAqq7J9ZpSKAg2d/edit?usp=drive_link&ouid=103571908927816967898&rtpof=true&sd=true)
 
+<a name="resumo_funcionalidades"></a>
 ## Resumo das funcionalidades
 - Este programa faz o download automático da Demonstração de Resultado de uma compania a partir de seu código CVM e do ano de análise dados pelo usuário
 
