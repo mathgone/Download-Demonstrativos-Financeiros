@@ -19,15 +19,19 @@
 
 ## Faça download do Demonstrativos Financeiros de uma empresa listada na B3 
 
+Este é um projeto em Python desenvolvido para baixar os demonstrativos financeiros de empresas disponíveis no site da Comissão de Valores Mobiliários (CVM) do Brasil. Ele oferece uma maneira rápida e automatizada de obter informações financeiras importantes das empresas listadas na bolsa de valores brasileira.
+
 ###### Exemplo de Excel gerado
 ![](https://i.postimg.cc/cCXmRbCj/planilha.png)
 - Link para acessar a planilha: [https://docs.google.com](https://docs.google.com/spreadsheets/d/1U45nzbGmEVZjq0cGmKAqq7J9ZpSKAg2d/edit?usp=drive_link&ouid=103571908927816967898&rtpof=true&sd=true)
 
 <a name="resumo_funcionalidades"></a>
 ## Resumo das funcionalidades
-- Este programa faz o download automático da Demonstração de Resultado de uma compania a partir de seu código CVM e do ano de análise dados pelo usuário
+- **Download Automatizado**: O programa baixa automaticamente os demonstrativos financeiros da empresa desejada;
+- **Dados Abertos e Acessíveis**: Os dados são obtidos a partir do site oficial da CVM;
+- **Flexibilidade de Seleção**: O usuário pode fornecer o código CVM da empresa e o ano desejado para baixar os dados específicos.
 
-- São disponibilizados os dados de:
+- No arquivo Excel gerado, são disponibilizados os dados de:
 
     - Balanço Patrimonial Ativo (BPA) Consolidado
     - Balanço Patrimonial Passivo (BPP) Consolidado
@@ -73,20 +77,20 @@
 ![Interface do usuário](https://i.postimg.cc/4xk3sNB8/user-interface.png)
 
 <a name="clicar_botao_verificar_bibliotecas"></a>
-# 4. Clique no botão <img align="left" width="33%" src="https://i.postimg.cc/YSy0cNVF/verificar-bibliotecas.png"> 
+# 4. Clique no botão <img align="center" width="33%" src="https://i.postimg.cc/YSy0cNVF/verificar-bibliotecas.png"> 
 
 - Este botão irá executar o script [setup.py]()
 - Será feito o download de todos os módulos necessários para o funcionamento do programa
 
 <a name="clicar_botao_baixar_dados_trimestrais"></a>
-# 5. Clique no botão ![Baixar dados trimestrais](https://i.postimg.cc/7PJGkcqZ/baixar-dados-trimestrais.png)
+# 5. Clique no botão <img align="center" width='33%' src="https://i.postimg.cc/7PJGkcqZ/baixar-dados-trimestrais.png">
 
 - Este botão irá executar o script [donwload_dados_itr.py]()
 - Será realizado o download das [ITRs (2011 - 2023)](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/) de Companias Abertas
 - Os dados serão salvos na pasta **dados_cvm_itr**
 
 <a name="clicar_botao_baixar_dfps"></a>
-# 6. Clique no botão ![Baixar DFPs](https://i.postimg.cc/7Z9b9rnm/baixar-dfps.png)
+# 6. Clique no botão <img align='center' width='33%' src="https://i.postimg.cc/7Z9b9rnm/baixar-dfps.png">
 
 - Este botão irá executar o script [donwload_dados_dfp.py]()
 - Será realizado o download das [DFPs (2010 - 2023)](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/) de Companias Abertas
@@ -101,6 +105,6 @@
 ![Interface do usuário com Inputs](https://i.postimg.cc/j2WhCnFn/user-interface-inputs.png)
 
 <a name="clicar_botao_gerar_excel"></a>
-# 8. Clique no botão  ![Botão Gerar Excel](https://i.postimg.cc/W44zfY9j/generate-excel.png)
+# 8. Clique no botão <img align='center' width='20%' src='https://i.postimg.cc/W44zfY9j/generate-excel.png'>
 
 - Um [arquivo Excel]() será gerado com as especificações dadas
