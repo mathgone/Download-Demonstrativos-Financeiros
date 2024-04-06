@@ -6,12 +6,12 @@
   - ### [Passo a passo para baixar e utlizar o programa](#como-baixar-e-utilizar-o-programa)
     - [1. Baixe a pasta scripts.zip](#baixar_pasta_script)
     - [2. Extraia os arquivos](#extrair_pasta_script)
-    - [3. Execute o script interface.py]()
-    - [4. Clique no botão Verificar bibliotecas]()
-    - [5. Clique no botão Baixar dados trimestrais]()
-    - [6. Clique no botão Baixar DFPs]()
-    - [7. Digite o código CVM da empresa e o ano da DFP]()
-    - [8. Clique no botão Gerar Excel]()
+    - [3. Execute o script interface.py](#executar_interface)
+    - [4. Clique no botão Verificar bibliotecas](#clicar_botao_verificar_bibliotecas)
+    - [5. Clique no botão Baixar dados trimestrais](#clicar_botao_baixar_dados_trimestrais)
+    - [6. Clique no botão Baixar DFPs](#clicar_botao_baixar_dfps)
+    - [7. Digite o código CVM da empresa e o ano da DFP](#inputs)
+    - [8. Clique no botão Gerar Excel](clicar_botao_gerar_excel)
    
 ------------------------
 [click here to jump to my anchor](#custom_anchor_name)
@@ -64,6 +64,7 @@
 
 ![Tutorial como extrair arquivos](https://i.postimg.cc/gj9MyTKz/extract-folder.png)
 
+<a name="executar_interface"></a>
 # 3. Execute o script [interface.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros/blob/main/scripts/interface.py)
 
 > [!TIP]
@@ -71,29 +72,34 @@
 
 ![Interface do usuário](https://i.postimg.cc/4xk3sNB8/user-interface.png)
 
+<a name="clicar_botao_verificar_bibliotecas"></a>
 # 5. Clique no botão ![Botão Verificar bibliotecas](https://i.postimg.cc/YSy0cNVF/verificar-bibliotecas.png)
 
 - Este botão irá executar o script [setup.py]()
 - Será feito o download de todos os módulos necessários para o funcionamento do programa
 
+<a name="clicar_botao_baixar_dados_trimestrais"></a>
 # 5. Clique no botão ![Baixar dados trimestrais](https://i.postimg.cc/7PJGkcqZ/baixar-dados-trimestrais.png)
 
 - Este botão irá executar o script [donwload_dados_itr.py]()
 - Será realizado o download das [ITRs (2011 - 2023)](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/) de Companias Abertas
 - Os dados serão salvos na pasta **dados_cvm_itr**
 
+<a name="clicar_botao_baixar_dfps"></a>
 # 6. Clique no botão ![Baixar DFPs](https://i.postimg.cc/7Z9b9rnm/baixar-dfps.png)
 
 - Este botão irá executar o script [donwload_dados_dfp.py]()
 - Será realizado o download das [DFPs (2010 - 2023)](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/) de Companias Abertas
 - Os dados serão salvos na pasta **dados_cvm_dfp**
 
+<a name="inputs"></a>
 # 6. Digite o código CVM da empresa e o ano da DFP
 
 - Os códigos CVM das empresas podem ser encontrados [aqui](https://cvmweb.cvm.gov.br/SWB/Sistemas/SCW/CPublica/CiaAb/FormBuscaCiaAbOrdAlf.aspx?LetraInicial=A)
 
 ![Interface do usuário com Inputs](https://i.postimg.cc/j2WhCnFn/user-interface-inputs.png)
 
+<a name="clicar_botao_gerar_excel"></a>
 # 7. Clique no botão  ![Botão Gerar Excel](https://i.postimg.cc/W44zfY9j/generate-excel.png)
 
 - Um [arquivo Excel]() será gerado com as especificações dadas
