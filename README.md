@@ -136,3 +136,4 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 ### 8. Clique no botão <img align='center' width='20%' src='https://i.postimg.cc/W44zfY9j/generate-excel.png'>
 - Este botão irá executar o script [filtro.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros-Padronizados/blob/main/filtro_cvm/filtro.py)
 - Um [arquivo Excel](https://github.com/mathgone/Download-Demonstrativos-Financeiros-Padronizados/blob/main/ALPARGATAS%20S.A._2023.xlsx) será gerado com as especificações dadas
+  - Link para acessar a planilha: [https://docs.google.com](https://docs.google.com/spreadsheets/d/18aJ9YykdlPfqjOoxF577g4grvyuqFuht/edit?usp=sharing&ouid=103571908927816967898&rtpof=true&sd=true)
