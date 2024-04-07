@@ -111,7 +111,7 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 ### 5. Clique no botão <img align="center" width='33%' src="https://i.postimg.cc/7PJGkcqZ/baixar-dados-trimestrais.png">
 
 - Este botão irá executar o script [donwload_dados_itr.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros-Padronizados/blob/main/filtro_cvm/download_dados_itr.py)
-- Será realizado o download das [ITRs (2011 - 2023)](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/) de Companias Abertas
+- Será realizado o download das [ITRs (Informações Trimestrais) (2011 - 2023)](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/ITR/DADOS/) de Companias Abertas
 - Os dados serão salvos na pasta **dados_cvm_itr**
 ------------------------
 
@@ -119,7 +119,7 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
 ### 6. Clique no botão <img align='center' width='33%' src="https://i.postimg.cc/7Z9b9rnm/baixar-dfps.png">
 
 - Este botão irá executar o script [donwload_dados_dfp.py](https://github.com/mathgone/Download-Demonstrativos-Financeiros-Padronizados/blob/main/filtro_cvm/download_dados_dfp.py)
-- Será realizado o download dos [DFPs Demonstrativo Financeiro Padronizado) (2010 - 2023)](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/) de Companias Abertas
+- Será realizado o download dos [DFPs (Demonstrativo Financeiro Padronizado) (2010 - 2023)](https://dados.cvm.gov.br/dados/CIA_ABERTA/DOC/DFP/DADOS/) de Companias Abertas
 - Os dados serão salvos na pasta **dados_cvm_dfp**
 ------------------------
 
