@@ -6,7 +6,7 @@
     - ### [1. Python](#instalar_python)
     - ### [2. Site de códigos CVM](#codigo_cvm)
   - ## [Passo a passo para baixar e utilizar o programa](#como-baixar-e-utilizar-o-programa)
-    - ### [1. Baixe a pasta scripts.zip](#baixar_pasta_script)
+    - ### [1. Baixe a pasta filtro_cvm.zip](#baixar_pasta_script)
     - ### [2. Extraia os arquivos](#extrair_pasta_script)
     - ### [3. Execute o script interface.py](#executar_interface)
     - ### [4. Clique no botão Verificar bibliotecas](#clicar_botao_verificar_bibliotecas)
