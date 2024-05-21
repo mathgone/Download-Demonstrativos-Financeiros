@@ -40,7 +40,7 @@ Este é um projeto em Python desenvolvido para baixar os demonstrativos financei
     - Demonstração de Resultado (DRE) Consolidado
 
 ###### Exemplo de Excel gerado pelo programa
-<img align="center" width='100%' src="https://i.postimg.cc/fL9bT9Sb/planilha-new.png">
+<img align="center" width='100%' src="https://i.postimg.cc/9fzdbJKN/planilha.png">
 
 ------------------------
 <h3 align="center"
